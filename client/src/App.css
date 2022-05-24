@@ -1,0 +1,9 @@
+.Pirate_tab {
+  width: 40%;
+  text-align: left;
+  padding: 7px 15px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: rgb(237, 193, 70);
+}
